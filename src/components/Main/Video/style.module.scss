@@ -1,0 +1,11 @@
+.container {
+	margin-top: 100px;
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
+	span {
+		color: green;
+		font-weight: bold;
+		margin-bottom: 30px;
+	}
+}

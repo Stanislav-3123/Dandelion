@@ -1,0 +1,33 @@
+.container {
+	margin-top: 100px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 1200px;
+}
+
+.container_span {
+	color: green;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.comment {
+	display: flex;
+	flex-direction: row;
+	background-color: aliceblue;
+	border-radius: 90px;
+	margin: 15px;
+	img {
+		margin-left: 15px;
+		width: 100px;
+		border-radius: 90px;
+	}
+	p {
+		font-weight: bold;
+		color: black;
+	}
+	span {
+		padding: 20px;
+	}
+	
+}
