@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Dandelion/static/css/main.5b98f913.css",
+    "main.js": "/Dandelion/static/js/main.35d7f237.js",
+    "static/media/mainImg.png": "/Dandelion/static/media/mainImg.f7e6ca82ece573e9c693.png",
+    "static/media/profile3.jpg": "/Dandelion/static/media/profile3.9155033cdb971851d378.jpg",
+    "static/media/whatsapp.png": "/Dandelion/static/media/whatsapp.3b482210ed1d3269fef5.png",
+    "static/media/profile1.jpg": "/Dandelion/static/media/profile1.3547b7c503404bb5b125.jpg",
+    "static/media/profile4.jpg": "/Dandelion/static/media/profile4.f3aa9efe8320574d2b21.jpg",
+    "static/media/Instagram.png": "/Dandelion/static/media/Instagram.ac8a9e43e094b82cf8fa.png",
+    "static/media/profile2.jpg": "/Dandelion/static/media/profile2.e24d678e22a0987f5e6e.jpg",
+    "static/media/vk.png": "/Dandelion/static/media/vk.ae25223e26cf0a2d1ff5.png",
+    "static/media/facebook.png": "/Dandelion/static/media/facebook.ca0296dd4b9532c2aead.png",
+    "static/media/Logo.png": "/Dandelion/static/media/Logo.0ca929531274bd4637cb.png",
+    "static/media/4.svg": "/Dandelion/static/media/4.67efd06e6b560ea90b483e0b5c4d97ec.svg",
+    "static/media/1.svg": "/Dandelion/static/media/1.a8135aab9c0814a421af0b94f9436007.svg",
+    "static/media/5.svg": "/Dandelion/static/media/5.e15ab7b228319881a44a10df7c55bd03.svg",
+    "static/media/2.svg": "/Dandelion/static/media/2.13bbba776bac15a5dbd3c424d04cd315.svg",
+    "static/media/3.svg": "/Dandelion/static/media/3.d21c0a870022eb70c9a495f7cd136731.svg",
+    "static/media/6.svg": "/Dandelion/static/media/6.9add782eacff7dadbe2101855a0be480.svg",
+    "static/media/telegram.svg": "/Dandelion/static/media/telegram.d524ce60a5271a2d84bbeb6759286b02.svg",
+    "index.html": "/Dandelion/index.html",
+    "main.5b98f913.css.map": "/Dandelion/static/css/main.5b98f913.css.map",
+    "main.35d7f237.js.map": "/Dandelion/static/js/main.35d7f237.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b98f913.css",
+    "static/js/main.35d7f237.js"
+  ]
+}
