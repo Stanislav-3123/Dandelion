@@ -10,16 +10,22 @@
 	padding: 2px;
 	position: fixed;
 	img {
-		width: 70px;
+		
 		padding-left: 50px;
 	}
 	div {
 		display: flex;
 		flex-direction: row;
 		gap: 10px;
+		
+		:hover {
+			transform: scale(1.15);
+			transition: 0.3s;
+		}
 		img {
 			width: 45px;
 			padding: 0px;
+			
 		}
 	}
 

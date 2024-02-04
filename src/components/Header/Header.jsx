@@ -9,7 +9,7 @@ import vk from '../../assets/vk.png'
 const Header = () => {
 	return (
 		<div className={s.header}>
-			<img alt='logo' src={logo}></img>
+			<img alt='logo' src={logo} className='w-[120px]'></img>
 			<div className={s.contacts}>
 			<a href='https://t.me/RuslanP8'> <img alt='telegram' src={telegram}></img></a>
 			<a href='https://wa.me/+79061833930'> <img alt='whatsup' src={whatsup} className={s.header_whatsApp}></img></a>
